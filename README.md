@@ -8,27 +8,3 @@ Our project seeks to provide ONLINE ATTENDANCE SYSTEM by implementing QR CODE TE
 •	It will strictly resist proxies.
 •	Reduce the overhead of faculties by providing accessibility of our system from any location.
 •	Students will be able to view attendance from their home.
-					
-Technology Stack
-•	Java 
-•	Image Processing
-•	Android	•	SQL Server for database
-•	JavaScript, HTML,CSS
-•	Github for version control
-
-Use-case description
-Faculty(Administrator): 
-•	Register student’s devices on System.
-•	Take attendance by displaying QR code via projector.
-•	Can retrieve the relevant information directly from the server.
-
-	Student:
-•	Need to register his/her android/ios device on system.
-•	Need to install the app for scanning QR code. 
-
-
-Dependencies
-Students need to register their android/ios devices.
-•	Internet Connectivity.
-•	Domain Server
-•	Android/ios device .
